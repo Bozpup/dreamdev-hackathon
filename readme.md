@@ -32,7 +32,7 @@ REST API analyzing merchant activity data from CSVs.
 1. Clone repo & install dependencies:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Bozpup/dreamdev-hackathon.git
 cd dreamdev-hackathon
 npm install
 ```
